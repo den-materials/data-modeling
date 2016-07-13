@@ -119,7 +119,7 @@ Be ready to share one of your diagrams with the class.
 ## Closing Thoughts
 - Take a minute and think back to Project 1.  What are the data objects you would like to model with a diagram like we just did?  Try to draw them out.  Take another minute to explain to your neighbor.
 - How do you represent a relational database in drawings? How would you describe the metaphor of storing data like a spreadsheet?
-- What are the three types of relationships, and what are some examples of how you would you use them?
+- What are the three types of relationships, and what are some examples of how you would use them?
 
 <!-- Make sure `which psql` returns something like I get before next class. -->
 
