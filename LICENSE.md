@@ -107,7 +107,7 @@ Creative Commons is not a party to its public licenses. Notwithstanding, Creativ
 
 Creative Commons may be contacted at creativecommons.org.
 
-``
+_____
 
 GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
