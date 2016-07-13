@@ -121,6 +121,8 @@ Be ready to share one of your diagrams with the class.
 - How do you represent a relational database in drawings? How would you describe the metaphor of storing data like a spreadsheet?
 - What are the three types of relationships, and what are some examples of how you would you use them?
 
+<!-- Make sure `which psql` returns something like I get before next class. -->
+
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
 All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
