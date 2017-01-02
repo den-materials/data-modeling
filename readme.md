@@ -112,7 +112,7 @@ Keep in mind, the ```belongs_to``` part always goes on the opposite side of the 
  - An online ordering system, with customers and orders
  - A bar drink system, with orders, customers, drinks, and/or liquors
 
-Be ready to share one of your diagrams with the class.
+ You can use a free ERD webapp like [Draw.io](https://www.draw.io/) to make this - you could also use Photoshop or Sketch, as we've just learned about them. Whiteboard or handrawn are fine too, but be ready to share one of your diagrams with the class.
 
 <!-- 2:00 5 minutes -->
 
