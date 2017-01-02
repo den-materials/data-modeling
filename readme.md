@@ -43,7 +43,7 @@ In modern web development, there are different categories of databases – SQL, 
 
 SQL stands for Structured Query Language, and it's a language used to manage and get information from what are considered "relational" databases (we'll talk more about SQL next lesson).
 
-We call these "relational" because different models - or pieces of data - can be linked to other models, aka "related". Relational DB's store data in a "table", so we can think of it like a spreadsheet. The table holds all the data for one model, while the columns define what attributes that model has; we often call columns "attributes" or "fields". A row is an instance (remember instantiation?) like a unique copy of the blueprint that is our model, often called a record.
+We call these "relational" because different models - or pieces of data - can be linked to other models, aka "related". Relational DB's store data in a "table", so we can think of it like a spreadsheet. The table holds all the data for one model, while the columns define what attributes that model has; we often call columns "attributes" or "fields". A row is an instance, like a unique copy of the blueprint that is our model (often called a record).
 
 <figure>
   <img src="https://cloud.githubusercontent.com/assets/25366/8589355/2646c588-25ca-11e5-9f2d-3d3afe8b7817.png" alt="relational db">
@@ -60,11 +60,11 @@ Let's say we're making an app for a library. What would some tables would look l
 
 <!-- Think-Pair on the following questions.  Then (-Share) call on random pairs to come up to the board to draw different tables with rows and columns. If we secretly guide them towards building individual models that should be related, we can naturally draw connections between them to show relationships in a minute -->
 
-<details>
+
 - What would the table for a book look like?
 - What would the table for an author look like?
 - What would the table for a category look like?
-</details>
+
 
 Now, we're starting to see relationships form. This is great. You can imagine duplicate pieces of data being stored naturally, especially when an author has multiple books, for instance. That's a waste of space!  So, let's talk about how we can connect these tables, this way, we don't have tons of duplicate data all over the place.
 
