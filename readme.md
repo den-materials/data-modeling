@@ -15,7 +15,7 @@ Market: DEN
 ### Why is this important?
 *This workshop is important because:*
 
-- A full stack developer must be able to thoughtfully model the data and relationships.
+- A full stack developer must be able to thoughtfully model data and relationships.
 - Good application design starts with good data design.
 
 ### What are the objectives?
@@ -35,11 +35,11 @@ Market: DEN
 
 ## What are Databases?
 
-A database is a place where information gets stored in a hard drive - or distributed across multiple hard drives - on a computer somewhere. Much like we've been creating and storing data, here and there, a database represents a collection of individual pieces of data stored in a highly structured and searchable way; they represent a model of reality, which why we call them models in MVC.
+A database is a place where information gets stored in a hard drive - or distributed across multiple hard drives - on a computer somewhere. Much like we've been creating and storing data, here and there, a database represents a collection of individual pieces of data stored in a highly structured and searchable way; they represent a model of reality, which is why we call them models in MVC.
 
 Inside a database, we do basic actions like **create**, **read**, **update**, and **destroy** data – hey look, CRUD!
 
-In modern web development, there are different categories of databases – SQL, NoSQL, Key/Value. We're focusing on SQL because historically that's the father to the others, but we have already talked about the others, and will talk more later in the course.
+In modern web development, there are different categories of databases – SQL, NoSQL, Key/Value. We're now turning our attention to SQL, because historically that's the father to all other DB types.
 
 SQL stands for Structured Query Language, and it's a language used to manage and get information from what are considered "relational" databases (we'll talk more about SQL next lesson).
 
