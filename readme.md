@@ -4,6 +4,7 @@ Adapted By: Zeb Girouard
 Market: DEN
 -->
 
+<!--WDI5 3:15 -->
 <!--1:00 5 minutes -->
 
 <!-- Hook: Remember back to localStorage?  (Raise hands)  How about Mongo?  At this point you're pretty familiar with storing data, but up until now it's been fairly simple key-value pairs and maybe one or two objects.  Sophisticated apps have a lot more data complexity than that.  Pretty much all of the hackathons I have been to start in the same way.  "OK, so what are the data objects we're working with?  We have a playlist, and a playlist has many songs, and then what properties do we want to store in our playlists and songs?"  So today, we're going to get into some good ways to organize all that data.  Today, we'll talk about data modeling. -->
@@ -52,6 +53,7 @@ We call these "relational" because different models - or pieces of data - can be
 
 <!-- With all this talk of attributes and instances, what does this remind you of? (Objects and OOP) -->
 
+<!--WDI5 3:26 -->
 <!-- 1:15 10 minutes -->
 
 ## Let's Draw on The Board - We Do
@@ -101,6 +103,7 @@ Keep in mind, the ```belongs_to``` part always goes on the opposite side of the 
 <!-- CFU: Catch phrase describe One to One, One to Many, Many to Many -->
 
 <!-- 1:40 20 minutes -->
+<!--WDI5 3:46 -->
 
 ## Independent Practice
 
@@ -117,9 +120,9 @@ Keep in mind, the ```belongs_to``` part always goes on the opposite side of the 
 <!-- 2:00 5 minutes -->
 
 ## Closing Thoughts
-- Take a minute and think back to Project 1.  What are the data objects you would like to model with a diagram like we just did?  Try to draw them out.  Take another minute to explain to your neighbor.
+- Take a minute and think back to Project 2.  What are the data objects you would like to model with a diagram like we just did?  Try to draw them out.  Take another minute to explain to your neighbor.
 - How do you represent a relational database in drawings? How would you describe the metaphor of storing data like a spreadsheet?
-- What are the three types of relationships, and what are some examples of how you would use them?
+- What are the three main types of relationships, and what are some examples of how you would use them?
 
 <!-- Make sure `which psql` returns something like I get before next class. -->
 
