@@ -4,6 +4,7 @@ Adapted By: Zeb Girouard
 Market: DEN
 -->
 
+<!--WDI6 3:07  -->
 <!--WDI5 3:15 -->
 <!--1:00 5 minutes -->
 
@@ -67,6 +68,7 @@ Let's say we're making an app for a library. What would some tables would look l
 - What would the table for an author look like?
 - What would the table for a category look like?
 
+<!--WDI6 3:26  -->
 
 Now, we're starting to see relationships form. This is great. You can imagine duplicate pieces of data being stored naturally, especially when an author has multiple books, for instance. That's a waste of space!  So, let's talk about how we can connect these tables, this way, we don't have tons of duplicate data all over the place.
 
@@ -104,6 +106,7 @@ Keep in mind, the ```belongs_to``` part always goes on the opposite side of the 
 
 <!-- 1:40 20 minutes -->
 <!--WDI5 3:46 -->
+<!--WDI6 3:45 -->
 
 ## Independent Practice
 
